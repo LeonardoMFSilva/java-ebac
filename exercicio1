@@ -1,0 +1,9 @@
+FrontEnd:
+Onde o visual da aplicação é mostrado. 
+É responsável pelo UI e UX do usuário final, deixando o código feito no backend visual e entendível para end-users.
+Também pode conter lógica e códigos mais difíceis como de autorização e validação de usuários.
+
+Backend:
+Onde a parte "feia" ou menos entendível para end-users da aplicação é feita.
+Aqui é onde toda regra de negócio é inserida na aplicação, onde também ocorre a comunicação com servidores e banco de dados.
+Também é responsável por exibir os possíveis erros HTTP que podem ser gerados durante a chamada da aplicação, como o famigerado 404.
